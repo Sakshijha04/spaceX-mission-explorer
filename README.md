@@ -60,8 +60,7 @@ A React-based web application to explore SpaceX missions with mission details, f
  3. Analytics Logging: Track user interactions such as favorite toggles, mission clicks, and filters for insights.
  4. Polish & UI Improvements: Enhance animations, loading states, and accessibility.
 
-## License
- MIT License
+
 
 
 
